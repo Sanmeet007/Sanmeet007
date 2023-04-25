@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 <h3 align="center">My GitHub Stats 📊 </h3>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanmeet007&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Sanmeet007 :: Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nushcode&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Sanmeet007 :: Top Langs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanmeet007&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Sanmeet007 :: Top Langs" />
 </p>
