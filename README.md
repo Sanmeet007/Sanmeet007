@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">My GitHub Stats 📊 </h3>
 <p align="center">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanmeet007&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="Sanmeet007 :: Profile Stats" /> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanmeet007&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="Sanmeet007 :: Profile Stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanmeet007&theme=vision-friendly-dark&hide_border=true" alt="Sanmeet007 :: Streak" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanmeet007&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="Sanmeet007 :: Top Languages" />
 </p>
