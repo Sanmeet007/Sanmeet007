@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software developer with a passion for writing clean and efficient code. With a strong background in Python, Javascript and Dart, I enjoy taking on challenging projects and finding creative solutions to problems. I believe in the power of collaboration and regularly contribute to open source projects on Github. Let's build something great together! 💻🔨 #python #javascript #dart #developerlife #opensource
+I’m a data scientist and software developer skilled in Python, Dart, and JavaScript — a curious explorer at the intersection of data and code. I love transforming raw data into meaningful insights and building seamless, intelligent applications that make a difference. Constantly learning, experimenting, and improving, I aim to master the art of crafting solutions that are as elegant as they are efficient. Let’s innovate, collaborate, and turn ideas into impact. 💡💻 #DataScience #Python #JavaScript #Dart #DeveloperLife #Innovation
 
 <!--
 **Sanmeet007/Sanmeet007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
