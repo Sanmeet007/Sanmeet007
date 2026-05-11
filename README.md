@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools 🚀</h3>
+<p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/android" width="40" /></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/gnubash" width="40" /></a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/c" width="40" /></a>
@@ -56,11 +56,13 @@ Here are some ideas to get you started:
 
 <h3 align="center">My GitHub Stats 📊 </h3>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanmeet007&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="Sanmeet007 :: Profile Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanmeet007&theme=vision-friendly-dark&hide_border=true" alt="Sanmeet007 :: Streak" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanmeet007&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="Sanmeet007 :: Top Languages" />
+  <!-- 1. Profile Stats -->
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Sanmeet007&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <!-- 2. Streak Stats -->
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Sanmeet007&theme=radical" alt="GitHub Streak" />
+  <!-- 3. Top Languages (Fixed: removed slash after top-langs) -->
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Sanmeet007&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
 
   
 
